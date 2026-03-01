@@ -1,0 +1,6 @@
+{
+  "Name": "string_methods1",
+  "ProjectType": "Process",
+  "Description": "extract email address using String methos ",
+  "MainFile": "Main.xaml"
+}

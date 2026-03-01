@@ -1,0 +1,6 @@
+{
+  "Name": "Vegetables_EstimatedValue",
+  "ProjectType": "Process",
+  "Description": "Practies Excel WorkBook in Studio ",
+  "MainFile": "Main.xaml"
+}

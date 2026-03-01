@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_Table_Extraction",
+  "ProjectType": "Process",
+  "Description": "Showcases the table extraction capabilities.",
+  "MainFile": "Main.xaml"
+}

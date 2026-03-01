@@ -1,0 +1,6 @@
+{
+  "Name": "Explorer_Excel_Practice_1_Workbook_DataTable_Activities",
+  "ProjectType": "Process",
+  "Description": "Short example which showcases the usage of workbook and data table activities.",
+  "MainFile": "Main.xaml"
+}
